@@ -1,7 +1,7 @@
 
 # Borrar Papelera de Mega.io
 
-Programa .net 5 - C#  (03/2020)
+Programa .net 5 - C#  (06/2022)
 
 Programa de Consola. 
 
