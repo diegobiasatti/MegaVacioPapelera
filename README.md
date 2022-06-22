@@ -10,3 +10,5 @@ Chequea si hay archivos dentro de la Papelera.
 Si los hay los elimina. 
 
 Siempre graba un LOG.txt.
+
+Debe estar logueado y activo el MegaCMD.
